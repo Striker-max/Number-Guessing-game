@@ -15,7 +15,6 @@ hard_count = 5
 aim_num = draw_num()
 print(aim_num)
 
-
 while True:
     diff_level = input('''Welcome to the Number Guessing Game!
 I'm thinking of a number between 1 and 100.
